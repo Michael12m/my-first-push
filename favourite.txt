@@ -1,3 +1,11 @@
+food 
 1- pizaa
 2- pasta
 3- grilled chicken 
+=======
+movies
+1- megrant 
+2- pursuit of happiness 
+3- avengers 
+4- thor 
+
